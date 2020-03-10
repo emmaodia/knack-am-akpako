@@ -1,11 +1,13 @@
 {
-  "name": "original-coast-clothing",
+  "name": "knack-am-akpako",
   "version": "1.0.0",
-  "description": "A sample app to show how to build a great Messenger experience!",
+  "description": "Knack Am Akpako. A Safe, Private and Secure SexEd space for men.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "lint": "./node_modules/.bin/eslint ."
+    "lint": "./node_modules/.bin/eslint .",
+    "dev": "nodemon app.js",
+    "devstart": "nodemon app.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -33,6 +35,7 @@
     "eslint": "^6.2.2",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "nodemon": "^2.0.2"
   }
 }
