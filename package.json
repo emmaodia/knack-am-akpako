@@ -15,7 +15,7 @@
     "dotenv": "^8.1.0",
     "ejs": "^2.6.2",
     "express": "^4.17.1",
-    "i18n": "^0.8.3",
+    "i18n": "^0.8.3",    
     "path": "^0.12.7",
     "request": "^2.88.0"
   },
@@ -23,10 +23,10 @@
     "node": "^8.10.0 || ^10.13.0 || >=11.10.1"
   },
   "repository": {
-    "url": "https://github.com/fbsamples/original-coast-clothing"
+    "url": "https://github.com/emmaodia/knack-am-akpako"
   },
-  "author": "Facebook",
-  "license": "ISC",
+  "author": "Emmanuel Oaikhenan. O.",
+  "license": "Apache-2.0",
   "keywords": [
     "messenger",
     "webhook"
@@ -35,7 +35,7 @@
     "eslint": "^6.2.2",
     "eslint-config-prettier": "^6.1.0",
     "eslint-plugin-prettier": "^3.1.0",
-    "prettier": "^1.18.2",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "prettier": "^1.18.2"
   }
 }
